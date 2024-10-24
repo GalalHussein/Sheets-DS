@@ -1,0 +1,3 @@
+C:/Users/NanoChip/Desktop/Data_Structer/Sheets/sheet_1/cmake-build-debug/CMakeFiles/sheet_1.dir
+C:/Users/NanoChip/Desktop/Data_Structer/Sheets/sheet_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NanoChip/Desktop/Data_Structer/Sheets/sheet_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
